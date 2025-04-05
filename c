@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Meme Site</title>
+  <title>sigmasite</title>
   <style>
     body {
       margin: 0;
